@@ -86,4 +86,12 @@ Desde NetBeans o consola:
 ```bash
 mvn clean compile exec:java
 
+<img width="556" height="250" alt="image" src="https://github.com/user-attachments/assets/1e9bd093-8af7-4fb3-902b-422a94ba19ca" />
+
+<img width="1680" height="1050" alt="image" src="https://github.com/user-attachments/assets/52b8fb06-e357-4216-802e-24f7be0a70ba" />
+
+<img width="1680" height="556" alt="image" src="https://github.com/user-attachments/assets/18092b5e-5715-4b37-8d64-df7f12120057" />
+
+
+
 
