@@ -1,0 +1,4 @@
+cl\juan\sistemainventario\SistemaInventario.class
+db\DBConnection.class
+dao\ProductDAO.class
+model\Product.class
